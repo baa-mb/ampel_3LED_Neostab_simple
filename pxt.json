@@ -1,5 +1,5 @@
 {
-    "name": "ampel_3leuchtdioden_simple",
+    "name": "ampel_3led_neostab_simple",
     "description": "",
     "dependencies": {
         "core": "*",
